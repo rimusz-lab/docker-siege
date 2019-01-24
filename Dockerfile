@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Micheal Waltz <ecliptik@gmail.com>
+MAINTAINER rimusz
 
 # Set environment vars
 ENV DEBIAN_FRONTEND=noninteractive \
