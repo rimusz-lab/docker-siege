@@ -7,7 +7,7 @@ ENV DEBIAN_FRONTEND=noninteractive \
     LC_ALL=C.UTF-8 \
     LANGUAGE=en_US.UTF-8 \
     APP_DIR=/app \
-    SIEGE_VERSION=4.0.2
+    SIEGE_VERSION=4.0.4
 
 # Create app dir
 RUN mkdir -p ${APP_DIR}
